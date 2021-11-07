@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #939393;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid black;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: white;
+  }
+  
+  td {
+    border-top: 1px solid white;
+  }
+  
+  .code {
+    font-family: Montserrat;
+    background-color: white;
+  }
