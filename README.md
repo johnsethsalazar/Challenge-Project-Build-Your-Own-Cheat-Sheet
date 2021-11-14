@@ -6,3 +6,8 @@
 # Files
 * index.html - HTML syntax used for the project
 * styles.css - CSS Syntax used for the project
+
+# Project Screenshot
+### index.html
+![image](https://user-images.githubusercontent.com/24352433/141676718-e59360f7-3365-436d-804c-27d409567750.png)
+
